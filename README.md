@@ -20,15 +20,16 @@ To find our workspace gid and assignee, in the way what i worked on it, it will 
 put all the details in utils.py and settings.py where i mentioned all the above fields because till my * Access token and client id * will may or may not be work.
 To find the workspace gid go to https://app.asana.com/api/1.0/workspaces. 
 <br>
-<li>clone repository from here [TODO](https://github.com/officialtech/Todo)</li>
-<li>go inside directory where <b>manage.py</b> file is located or inside *TODO*</li>
+<br>
+<li>clone repository from here https://github.com/Ameer-Amr/Webkrone_Task.git</li>
+<li>go inside directory where <b>manage.py</b> file is located or inside <b>todo_asana</b></li>
 <li>now you can install <b>requirements.txt</b></li>
 
 ```
 pip install -r requirements.txt
 ```
 
-<li> if you want to create virtualenv you can create that and than pip install requirements, after that activate virtualenv and fire your development server</li>
+<li> if you want to create virtualenv you can create that and then pip install requirements, after that activate virtualenv and fire your development server</li>
 <li>else now going from 3 step you can fire your development server</li>
 
 ```

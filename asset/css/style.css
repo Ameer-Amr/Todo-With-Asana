@@ -1,7 +1,7 @@
 .left-sidebar {
     margin: auto 1rem;
-    /* padding: 0; */
-    width: 17vw;
+    padding: 0;
+    width: 21vw;
     position: fixed;
     height: 100%;
     overflow: auto;
